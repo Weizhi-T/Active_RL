@@ -1,0 +1,6 @@
+# ignore dataset
+/data/data4drl/
+/data/*.pkl
+
+# ignore wandb
+/wandb/
